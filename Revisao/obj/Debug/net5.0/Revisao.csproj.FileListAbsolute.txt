@@ -1,0 +1,16 @@
+H:\workspace\Csharp-examples\Revisao\bin\Debug\net5.0\Revisao.exe
+H:\workspace\Csharp-examples\Revisao\bin\Debug\net5.0\Revisao.deps.json
+H:\workspace\Csharp-examples\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+H:\workspace\Csharp-examples\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+H:\workspace\Csharp-examples\Revisao\bin\Debug\net5.0\Revisao.dll
+H:\workspace\Csharp-examples\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+H:\workspace\Csharp-examples\Revisao\bin\Debug\net5.0\Revisao.pdb
+H:\workspace\Csharp-examples\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+H:\workspace\Csharp-examples\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+H:\workspace\Csharp-examples\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+H:\workspace\Csharp-examples\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+H:\workspace\Csharp-examples\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+H:\workspace\Csharp-examples\Revisao\obj\Debug\net5.0\Revisao.dll
+H:\workspace\Csharp-examples\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+H:\workspace\Csharp-examples\Revisao\obj\Debug\net5.0\Revisao.pdb
+H:\workspace\Csharp-examples\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
